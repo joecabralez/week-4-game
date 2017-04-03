@@ -1,0 +1,52 @@
+.gameName {
+	font-weight: bold;
+	background-color: orange;
+	padding: 20px;
+	width: 25%;
+	text-align: center;
+}
+
+p {
+	color: green;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.instructions {
+	background-color: pink;
+	width: 66.666666%;
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 100% 100%;
+}
+
+.total {
+	background-color: lightgreen;
+	font-color: blue;
+	font-weight: bold;
+	display: inline-block;
+	height: 100%;
+	font-size: 30px;
+	text-align: center;
+}
+
+.result {
+	background-color: turquoise;
+	font-color: blue;
+	font-weight: bold;
+	display: inline-block;
+	height: 100%;
+	text-align: center;
+}
+
+
+.addition, .score {
+	background-color: teal;
+	font-color: #ffffff;
+	font-weight: bold;
+	display: inline-block;
+	height: 100%;
+	font-size: 30px;
+}
